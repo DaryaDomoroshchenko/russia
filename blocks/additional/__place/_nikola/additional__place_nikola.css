@@ -1,0 +1,7 @@
+.additional__place_nikola {
+    background-image: url("./../../../../images/nikola.jpg");
+    max-width: 284px;
+    max-height: 330px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}

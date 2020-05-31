@@ -1,0 +1,7 @@
+.additional__place_shickan {
+    background-image: url("./../../../../images/shickan.jpg");
+    max-width: 284px;
+    max-height: 330px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}

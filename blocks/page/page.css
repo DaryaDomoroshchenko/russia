@@ -1,0 +1,9 @@
+@import url('../container/container.css');
+
+.page {
+    background-color: #2A2C2F;
+}
+
+* {
+    box-sizing: border-box;
+}

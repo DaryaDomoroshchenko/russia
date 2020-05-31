@@ -1,0 +1,28 @@
+@import url('./__title/lead__title.css');
+@import url('./__subtitle/lead__subtitle.css');
+@import url('./__wrap/lead__wrap.css');
+@import url('./__img/lead__img.css');
+@import url('./__caption/lead__caption.css');
+
+.lead {
+    font-family: 'Inter', Arial, sans-serif;
+    margin-bottom: 80px;
+}
+
+@media screen and (min-width: 1280px) {
+    .lead {
+        padding: 0 100px 0;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .lead {
+        margin-bottom: 80px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .lead {
+        margin-bottom: 64px;
+    }
+}

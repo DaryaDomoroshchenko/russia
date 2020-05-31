@@ -1,0 +1,7 @@
+.additional__place_cherepovets {
+    background-image: url("./../../../../images/cherepovets.jpg");
+    max-width: 284px;
+    max-height: 330px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}

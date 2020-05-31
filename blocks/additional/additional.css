@@ -1,0 +1,9 @@
+@import url('./__places/additional__places.css');
+@import url('./__place/additional__place.css');
+@import url('./__title/additional__title.css');
+@import url('./__text/additional__text.css');
+
+.additional {
+    font-family: 'Inter', Arial, sans-serif;
+    margin-bottom: 102px;
+}

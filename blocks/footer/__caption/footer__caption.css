@@ -1,0 +1,18 @@
+.footer__caption {
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .footer__caption {
+        margin-top: 3px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .footer__caption {
+        margin-top: 48px;
+    }
+}

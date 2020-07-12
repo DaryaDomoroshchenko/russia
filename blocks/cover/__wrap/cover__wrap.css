@@ -17,11 +17,11 @@
     background-color: #2A2C2F;
     opacity: 0.3;
     z-index: 0;
+    transition: opacity 0.4s ease-out;
 }
 
 .cover__wrap:hover.cover__wrap:after {
     opacity: 0.8;
-    transition: opacity 0.4s ease-out;
 }
 
 
